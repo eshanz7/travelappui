@@ -1,16 +1,21 @@
 # travelappui
 
-A new Flutter project.
+A Travel App UI in which it has two pages one is home page and one is detail page.
 
-## Getting Started
+- Decorate TextField
+- How to create Custom Bottom Navigation
+- How to use Stack
+- How to Crop Image
+- How to Shape a container
+- How to use readmore text
+- How to apply font to whole app
+- How to make responsive design
+- How to give height according to device specific width and height
+- How to create Horizontal ListView 
+- How to give shadow to container
+- How to make a button
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/eshanz7/travelappui/assets/134164203/17acbbb4-eb65-4031-bd5c-9b5780d98d31)
+![uidesign](https://github.com/eshanz7/travelappui/assets/134164203/e191e50c-76aa-4f61-89b8-6dc393aea017)
