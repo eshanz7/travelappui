@@ -18,4 +18,9 @@ A Travel App UI in which it has two pages one is home page and one is detail pag
 
 
 ![image](https://github.com/eshanz7/travelappui/assets/134164203/17acbbb4-eb65-4031-bd5c-9b5780d98d31)
+
+
+
+
+
 ![uidesign](https://github.com/eshanz7/travelappui/assets/134164203/e191e50c-76aa-4f61-89b8-6dc393aea017)
